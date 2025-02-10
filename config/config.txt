@@ -1,0 +1,5 @@
+initialize: 0
+kcalTotal: 3000
+proteinTotal: 200.0
+fatTotal: 100.0
+carbTotal: 200.0
